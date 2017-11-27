@@ -39,7 +39,7 @@ Please see the replication package of the respective chapter/paper:
 
 ## Tools
 
-- My ```tcp.lda``` test case prioritization tool (Chapter 3) is on [GitHub](https://github.com/doofuslarge/tcp.lda).
-- My ```lscp``` preprocessing tool (used throughout the thesis) is on [GitHub](https://github.com/doofuslarge/lscp).
-- My ```lucene-lda``` LDA-based search tool (Chapt  ers 5 and 8) is on [GitHub](https://github.com/doofuslarge/lucene-lda).
-- My ```CountNGrams``` Hadoop-based NGram counting tool (not used in thesis, but may be helpful anyway) is on [GitHub](https://github.com/doofuslarge/CountNGrams). 
+- My ```tcp.lda``` test case prioritization tool (Chapter 3) is on [GitHub](https://github.com/stepthom/tcp.lda).
+- My ```lscp``` preprocessing tool (used throughout the thesis) is on [GitHub](https://github.com/stepthom/lscp).
+- My ```lucene-lda``` LDA-based search tool (Chapt  ers 5 and 8) is on [GitHub](https://github.com/stepthom/lucene-lda).
+- My ```CountNGrams``` Hadoop-based NGram counting tool (not used in thesis, but may be helpful anyway) is on [GitHub](https://github.com/stepthom/CountNGrams). 
